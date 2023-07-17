@@ -1,6 +1,6 @@
 [
  {"minAndroid":1,"maxAndroid":23}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.15"}
+ ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.16"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"1.0.0"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"1.1.1"}
 ]
