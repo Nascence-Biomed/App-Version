@@ -1,9 +1,6 @@
 [
  {"minAndroid":1,"maxAndroid":23}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.21"}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.22"}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.23"}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.24"}
+ ,{"minAndroid":28,"maxAndroid":99,"supported":"CloseIt-1.0.25"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"1.0.0"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"1.1.1"}
 ]
