@@ -1,5 +1,4 @@
 [
  {"minAndroid":1,"maxAndroid":23}
- ,{"minAndroid":28,"maxAndroid":99,"supported":"1.1.1"}
  ,{"minAndroid":28,"maxAndroid":99,"supported":"3.0"}
 ]
